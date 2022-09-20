@@ -19,8 +19,9 @@ sudo apt install -y network-manager-gnome
 # Installation for Appearance management
 sudo apt install -y lxappearance 
 
-# File Manager (eg. pcmanfm,krusader)
-sudo apt install -y thunar xfce4-settings ranger
+# File Manager (eg. pcmanfm,krusader, thunar xfce4-settings)
+# I prefer used ranger because base on terminal looks
+sudo apt install -y ranger
 
 # Network File Tools/System Events
 sudo apt install -y dialog mtools dosfstools avahi-daemon acpi acpid gvfs-backends
@@ -49,8 +50,9 @@ sudo apt install -y bluez blueman
 sudo systemctl enable bluetooth
 sudo systemctl enable cups
 
-# Browser Installation (eg. chromium)
-sudo apt install -y firefox-esr 
+# Browser Installation (eg. chromium, firefox-esr)
+# sudo apt install -y firefox-esr 
+sudo apt install -y brave-browser
 
 # Desktop background browser/handler 
 # feh --bg-fill /path/to/directory 
@@ -65,8 +67,8 @@ sudo apt install -y meson dh-autoreconf libxcb-keysyms1-dev libpango1.0-dev libx
 sudo apt install -y dmenu sxhkd numlockx rofi dunst libnotify-bin picom unzip geany simple-scan
 
 # Command line text editor -- nano preinstalled  -- I like micro but vim is great
-# sudo apt install -y micro
-sudo apt install -y vim
+sudo apt install -y micro
+# sudo apt install -y vim
 
 # Install fonts
 sudo apt install fonts-font-awesome fonts-powerline fonts-ubuntu fonts-liberation2 fonts-liberation fonts-terminus fonts-cascadia-code
