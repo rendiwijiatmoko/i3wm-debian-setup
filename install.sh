@@ -52,7 +52,7 @@ sudo systemctl enable cups
 
 # Browser Installation (eg. chromium, firefox-esr)
 # sudo apt install -y firefox-esr 
-sudo apt install -y brave-browser
+# sudo apt install -y brave-browser
 
 # Desktop background browser/handler 
 # feh --bg-fill /path/to/directory 
