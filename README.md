@@ -5,7 +5,7 @@ I used debian 11 version (code name "bullseye")
 
 I wanted to use i3 as my window manager but also using gaps configuration 
 as 
-default.
+default for more detail read [i3-gaps](https://github.com/Airblader/i3).
 
 ----
 
