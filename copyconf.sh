@@ -9,7 +9,7 @@ pip install --user bumblebee-status
 sudo apt install -y aptitude
 
 cd
-cd i3gaps-debian
+cd i3wm-debian-setup
 
 cp -r .config/backgrounds/ ~/.config
 cp -r .config/bumblebee-status/ ~/.config
