@@ -1,6 +1,6 @@
 # i3wm with gaps
 # Works great with Debian Stable
-Install [debian os] (https://www.debian.org/download)
+Install [debian os](https://www.debian.org/download)
 I used debian 11 version (code name "bullseye")
 
 I wanted to use i3 as my window manager but also using gaps configuration 
