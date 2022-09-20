@@ -20,20 +20,10 @@ cd i3wm-debian-setup
 
 ./install.sh (includes nerdfonts.sh and copyconf.sh unless commented)
 ```
-after that install other shell thare are 
 
-```
-./nerdfonts.sh
-```
-to install font 
-
-```
-./copyconf.sh
-```
-for customized configuration
-
-
-finish the setup
+Finish the setup
 ```
 sudo reboot
 ```
+
+That's it.
